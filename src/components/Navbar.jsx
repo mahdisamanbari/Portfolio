@@ -13,8 +13,8 @@ function Navbar() {
             <img className='mx-2 w-10' src={logo} alt='logo'/>
         </div>
         <div className='flex justify-center items-center gap-4 text-2xl m-8'>
-            <FaLinkedin/>
             <FaGithub/>
+            <FaLinkedin/>
             <FaInstagram/>
             <FaTelegram/>
         </div>
